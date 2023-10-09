@@ -35,7 +35,7 @@ $_DVWA[ 'default_security_level' ] = 'impossible';
 # Default locale
 #   Default locale for the help page shown with each session.
 #   The default is 'en'. You may wish to set this to either 'en' or 'zh'.
-$_DVWA[ 'default_locale' ] = 'en';
+$_DVWA[ 'default_locale' ] = 'tr';
 
 # Disable authentication
 #   Some tools don't like working with authentication and passing cookies around
