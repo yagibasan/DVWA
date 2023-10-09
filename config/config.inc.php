@@ -17,8 +17,8 @@ $DBMS = 'MySQL';
 $_DVWA = array();
 $_DVWA[ 'db_server' ]   = 'us-cdbr-east-06.cleardb.net';
 $_DVWA[ 'db_database' ] = 'heroku_d261c7f525efc09';
-$_DVWA[ 'db_user' ]     = '4411e6b5';
-$_DVWA[ 'db_password' ] = 'b211809d337b33';
+$_DVWA[ 'db_user' ]     = 'b211809d337b33';
+$_DVWA[ 'db_password' ] = '4411e6b5';
 $_DVWA[ 'db_port']      = '3306';
 
 # ReCAPTCHA settings
